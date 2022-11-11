@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #c1c1c1;
+}
+header{
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+}
+h1{
+font-size: 2rem;
+font-weight: 600;
+}
+article{
+    width: 100%;
+    padding: 0 2rem  ;
+}
+article img{
+    width: 100%;
+}
+#text{
+    margin: 1rem 5rem;
+}
+#text div{
+    max-width: 100%;
+    margin: 1rem 0;
+}
+#text h2{
+    font-size: 1.5rem;
+    font-weight: 600;  
+    margin-bottom: 1rem;
+}
+#text p{
+    word-break: break-all;
+    font-size: 18px;
+}
+#text h3{
+    margin-bottom: 1rem;
+}
+#contato{
+    width: 80%;
+}
+#contato form{
+    width: 60%;
+}
+#contato label{
+    display: block;
+    width: 100%;
+    margin: 0.5rem;
+    font-size: 16px;
+}
+#contato input{
+    max-width: 100%;
+    width: 80%;
+    border:0;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 5px;
+}
+#contato #enviar{
+    width: 24%;
+    padding: 5px;
+    border-radius: 9px;
+    margin-top: 1rem;
+    background-color: #fff;
+}
